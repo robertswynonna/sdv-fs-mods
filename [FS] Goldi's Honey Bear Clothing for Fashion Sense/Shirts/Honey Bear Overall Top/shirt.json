@@ -1,0 +1,95 @@
+{
+    "Name": "Honey Bear Overall Top",
+    "FrontShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [182, 113, 58],
+            [197, 149, 71],
+            [211, 165, 90]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        }
+    },
+
+    "RightShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [182, 113, 58],
+            [197, 149, 71],
+            [211, 165, 90]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 8
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 1
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        }
+    },
+
+    "LeftShirt": {
+        "Flipped": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [182, 113, 58],
+            [197, 149, 71],
+            [211, 165, 90]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 8
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        }
+    },
+
+    "BackShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [182, 113, 58],
+            [197, 149, 71],
+            [211, 165, 90]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 18
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 9
+        }
+    }
+}

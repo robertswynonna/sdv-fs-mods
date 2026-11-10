@@ -1,0 +1,95 @@
+{
+    "Name": "Flower Nectar Cardigan",
+    "FrontShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [211, 188, 162],
+            [250, 236, 221],
+            [255, 248, 232]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        }
+    },
+
+    "RightShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [211, 188, 162],
+            [250, 236, 221],
+            [255, 248, 232]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 8
+        },
+        "BodyPosition": {
+            "X": -1,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 6,
+            "Length": 8
+        }
+    },
+
+    "LeftShirt": {
+        "Flipped": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [211, 188, 162],
+            [250, 236, 221],
+            [255, 248, 232]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 8
+        },
+        "BodyPosition": {
+            "X": -1,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 6,
+            "Length": 8
+        }
+    },
+
+    "BackShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [211, 188, 162],
+            [250, 236, 221],
+            [255, 248, 232]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 16
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 9
+        }
+    }
+}

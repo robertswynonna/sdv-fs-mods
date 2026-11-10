@@ -1,0 +1,96 @@
+{
+    "Name": "Taupe Teddy Sweater",
+    "FrontShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [88, 43, 28],
+            [110, 70, 46],
+            [126, 84, 58]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        }
+    },
+
+    "RightShirt": {
+        
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [88, 43, 28],
+            [110, 70, 46],
+            [126, 84, 58]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 8
+        },
+        "BodyPosition": {
+            "X": -1,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 6,
+            "Length": 7
+        }
+    },
+
+    "LeftShirt": {
+        "Flipped": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [88, 43, 28],
+            [110, 70, 46],
+            [126, 84, 58]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 8
+        },
+        "BodyPosition": {
+            "X": -1,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 6,
+            "Length": 7
+        }
+    },
+
+    "BackShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [88, 43, 28],
+            [110, 70, 46],
+            [126, 84, 58]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 15
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        }
+    }
+}

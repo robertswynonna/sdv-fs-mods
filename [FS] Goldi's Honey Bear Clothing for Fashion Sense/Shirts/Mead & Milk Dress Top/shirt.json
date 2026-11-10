@@ -1,0 +1,94 @@
+{
+    "Name": "Mead & Milk Dress Top",
+    "FrontShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [215, 201, 179],
+            [234, 222, 203],
+            [250, 247, 235]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        }
+    },
+
+    "RightShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [215, 201, 179],
+            [234, 222, 203],
+            [250, 247, 235]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 8
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 7,
+            "Length": 8
+        }
+    },
+
+    "LeftShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [215, 201, 179],
+            [234, 222, 203],
+            [250, 247, 235]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 16
+        },
+        "BodyPosition": {
+            "X": -1,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 7,
+            "Length": 8
+        }
+    },
+
+    "BackShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [215, 201, 179],
+            [234, 222, 203],
+            [250, 247, 235]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 24
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        }
+    }
+}

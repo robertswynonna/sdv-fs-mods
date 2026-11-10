@@ -1,0 +1,72 @@
+{
+    "Name": "Bumblebee Beekeeper Hat",
+    "FrontHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0 
+        },
+        "HeadPosition": {
+            "X": -2,
+            "Y": -1
+        },
+        "HatSize": {
+            "Width": 16,
+            "Length": 18
+        }
+    },
+    "RightHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 18
+        },
+        "HeadPosition": {
+            "X": 1,
+            "Y": -2
+        },
+        "HatSize": {
+            "Width": 19,
+            "Length": 17
+        }
+    },
+    "LeftHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "Flipped": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 18
+        },
+        "HeadPosition": {
+            "X": -2,
+            "Y": -2
+        },
+        "HatSize": {
+            "Width": 19,
+            "Length": 17
+        }
+    },
+    "BackHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 35
+        },
+        "HeadPosition": {
+            "X": -3,
+            "Y": -3
+        },
+        "HatSize": {
+            "Width": 14,
+            "Length": 17
+        }
+    }
+}
