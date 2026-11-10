@@ -1,0 +1,95 @@
+{
+    "Name": "Rory's Red Turtleneck",
+    "FrontShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [71, 9, 17],
+            [78, 12, 19],
+            [82, 15, 23]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 1
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 9
+        }
+    },
+
+    "RightShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [71, 9, 17],
+            [78, 12, 19],
+            [82, 15, 23]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 9
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 1
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 9
+        }
+    },
+
+    "LeftShirt": {
+        "Flipped": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [71, 9, 17],
+            [78, 12, 19],
+            [82, 15, 23]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 9
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 1
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 9
+        }
+    },
+
+    "BackShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [71, 9, 17],
+            [78, 12, 19],
+            [82, 15, 23]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 18
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 1
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 9
+        }
+    }
+}

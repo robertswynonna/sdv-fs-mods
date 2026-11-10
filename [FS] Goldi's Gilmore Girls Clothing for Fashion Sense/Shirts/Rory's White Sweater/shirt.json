@@ -1,0 +1,95 @@
+{
+    "Name": "Rory's White Sweater",
+    "FrontShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [195, 195, 195],
+            [237, 237, 237],
+            [255, 255, 255]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 9
+        }
+    },
+
+    "RightShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [195, 195, 195],
+            [237, 237, 237],
+            [255, 255, 255]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 9
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 9
+        }
+    },
+
+    "LeftShirt": {
+        "Flipped": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [195, 195, 195],
+            [237, 237, 237],
+            [255, 255, 255]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 9
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 9
+        }
+    },
+
+    "BackShirt": {
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "DisableGrayscale": true,
+        "SleeveColors": [
+            [195, 195, 195],
+            [237, 237, 237],
+            [255, 255, 255]
+        ],
+        "StartingPosition": {
+            "X": 0,
+            "Y": 18
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 9
+        }
+    }
+}

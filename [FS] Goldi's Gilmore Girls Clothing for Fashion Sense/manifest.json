@@ -1,0 +1,27 @@
+// If for some reason you have the latest version of this mod but you are still receiving purple text in the SMAPI panel telling you to update, the mod will still work as intended. However, if it bothers you, notify me and I will update the manifest version ASAP. In the meantime, you can type the correct version number in the "Version" spot below!
+
+
+{
+	"Name": "Goldi's Gilmore Girls Clothing for Fashion Sense",
+	"Author": "Goldilocks",
+	"Version": "1.0.1", // Replace with updated version number to fix purple text <3
+	"Description": "Adds 6 new Gilmore Girls inspired outfits for Fashion Sense!",
+	"UniqueID": "Goldilocks.GGClothing",
+	"UpdateKeys": ["Nexus:49500"],
+	"ContentPackFor": {
+        	"UniqueID": "PeacefulEnd.FashionSense",
+            "MinimumVersion": "7.5.0"
+    	},
+	"Dependencies": [
+   		{
+      			"UniqueID": "Pathoschild.ContentPatcher", // Mod won't work without it!
+                "MinimumVersion": "2.9.1",
+                "IsRequired": true
+   		},
+        {
+                "UniqueID": "PeacefulEnd.FashionSense", // Mod won't work without it!
+                "MinimumVersion": "7.5.0",
+                "IsRequired": true
+        }
+	]
+}
