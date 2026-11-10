@@ -1,0 +1,23 @@
+# Release zips (upload these to Nexus / GitHub Releases instead of committing)
+releases/
+*.zip
+*.7z
+*.rar
+
+# OS junk
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Editor and art-program temp/backup files
+*.tmp
+*.bak
+*~
+*.kra~
+*.kra-autosave.kra
+*.psd~
+*.xcf~
+.vscode/
+.idea/
