@@ -1,0 +1,72 @@
+{
+    "Name": "Honey Bear Bandana",
+    "FrontHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": false,
+        "HideWhileWearingBathingSuit": false,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0 
+        },
+        "HeadPosition": {
+            "X": -4,
+            "Y": -5
+        },
+        "HatSize": {
+            "Width": 12,
+            "Length": 7
+        }
+    },
+    "RightHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": false,
+        "HideWhileWearingBathingSuit": false,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 8
+        },
+        "HeadPosition": {
+            "X": -3,
+            "Y": -5
+        },
+        "HatSize": {
+            "Width": 12,
+            "Length": 10
+        }
+    },
+    "LeftHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": false,
+        "HideWhileWearingBathingSuit": false,
+        "Flipped": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 8
+        },
+        "HeadPosition": {
+            "X": -5,
+            "Y": -5
+        },
+        "HatSize": {
+            "Width": 12,
+            "Length": 10
+        }
+    },
+    "BackHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": false,
+        "HideWhileWearingBathingSuit": false,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 19
+        },
+        "HeadPosition": {
+            "X": -4,
+            "Y": -6
+        },
+        "HatSize": {
+            "Width": 12,
+            "Length": 11
+        }
+    }
+}

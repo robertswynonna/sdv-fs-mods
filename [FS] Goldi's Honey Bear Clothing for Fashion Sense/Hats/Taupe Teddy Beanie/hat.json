@@ -1,0 +1,72 @@
+{
+    "Name": "Taupe Teddy Beanie",
+    "FrontHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": false,
+        "HideWhileWearingBathingSuit": false,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0 
+        },
+        "HeadPosition": {
+            "X": -4,
+            "Y": -3
+        },
+        "HatSize": {
+            "Width": 12,
+            "Length": 9
+        }
+    },
+    "RightHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": false,
+        "HideWhileWearingBathingSuit": false,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 9
+        },
+        "HeadPosition": {
+            "X": -2,
+            "Y": -2
+        },
+        "HatSize": {
+            "Width": 13,
+            "Length": 13
+        }
+    },
+    "LeftHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": false,
+        "HideWhileWearingBathingSuit": false,
+        "Flipped": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 9
+        },
+        "HeadPosition": {
+            "X": -5,
+            "Y": -2
+        },
+        "HatSize": {
+            "Width": 13,
+            "Length": 13
+        }
+    },
+    "BackHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": false,
+        "HideWhileWearingBathingSuit": false,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 22
+        },
+        "HeadPosition": {
+            "X": -3,
+            "Y": -3
+        },
+        "HatSize": {
+            "Width": 14,
+            "Length": 12
+        }
+    }
+}

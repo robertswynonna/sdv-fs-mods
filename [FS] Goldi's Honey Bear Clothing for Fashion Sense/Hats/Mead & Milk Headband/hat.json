@@ -1,0 +1,72 @@
+{
+    "Name": "Mead & Milk Headband",
+    "FrontHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0 
+        },
+        "HeadPosition": {
+            "X": -5,
+            "Y": -6
+        },
+        "HatSize": {
+            "Width": 10,
+            "Length": 5
+        }
+    },
+    "RightHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 5
+        },
+        "HeadPosition": {
+            "X": -5,
+            "Y": -5
+        },
+        "HatSize": {
+            "Width": 8,
+            "Length": 7
+        }
+    },
+    "LeftHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "Flipped": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 5
+        },
+        "HeadPosition": {
+            "X": -7,
+            "Y": -5
+        },
+        "HatSize": {
+            "Width": 8,
+            "Length": 7
+        }
+    },
+    "BackHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": true,
+        "HideWhileWearingBathingSuit": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 12
+        },
+        "HeadPosition": {
+            "X": -4,
+            "Y": -6
+        },
+        "HatSize": {
+            "Width": 12,
+            "Length": 5
+        }
+    }
+}

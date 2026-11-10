@@ -1,0 +1,71 @@
+{
+    "Name": "Flower Nectar Daisy",
+    "FrontHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": false,
+        "HideWhileWearingBathingSuit": false,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0 
+        },
+        "HeadPosition": {
+            "X": -3,
+            "Y": -8
+        },
+        "HatSize": {
+            "Width": 4,
+            "Length": 4
+        }
+    },
+    "RightHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": false,
+        "HideWhileWearingBathingSuit": false,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "HeadPosition": {
+            "X": -6,
+            "Y": -8
+        },
+        "HatSize": {
+            "Width": 4,
+            "Length": 4
+        }
+    },
+    "LeftHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": false,
+        "HideWhileWearingBathingSuit": false,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 4
+        },
+        "HeadPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "HatSize": {
+            "Width": 4,
+            "Length": 4
+        }
+    },
+    "BackHat": {
+        "DisableGrayscale": true,
+        "HideWhileSwimming": false,
+        "HideWhileWearingBathingSuit": false,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 4
+        },
+        "HeadPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "HatSize": {
+            "Width": 4,
+            "Length": 4
+        }
+    }
+}
